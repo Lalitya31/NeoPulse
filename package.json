@@ -1,0 +1,17 @@
+{
+  "name": "veo-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createvideo.js",
+  "scripts": {
+    "generate": "node createvideo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.3.1"
+  }
+}
